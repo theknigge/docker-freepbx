@@ -148,5 +148,5 @@ LABEL maintainer="Dave Conroy (dave at tiredofit dot ca)"
    ADD install /
 
 ### Networking Configuration
-EXPOSE 80 443 5060 5160 4569 18000-20000/udp
+EXPOSE 80 443 5060 5160 4569 18000-18050/udp
 
